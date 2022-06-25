@@ -17,6 +17,6 @@ Download and Install <a href="https://www.apachefriends.org/download.html">Xampp
 8. After zero errors check the <a href="https://github.com/dbpravinkumarcse/Millineals_glow.git">react</a> part.
 
 ## Issues
-- [ ] product.sql must be automatically added.
-- [ ] order confirmation is not working properly.
+- [x] product.sql must be automatically added.
+- [x] order confirmation is not working properly.
 - [ ] UI changes.
